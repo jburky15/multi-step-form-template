@@ -8,11 +8,7 @@ Built using React & Typescript
 
 Clone this repo
 
-use npm create vite
-
-select react, typescript
-
-once this is complete type npm i to finish installing dependencies
+once this is complete type npm i to install project dependencies
 
 finally, type npm run dev to check it out
 
